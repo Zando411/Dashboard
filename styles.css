@@ -70,13 +70,20 @@ nav ul li span {
   padding-left: 10px;
 }
 
-.fa-chart-line {
+.logo-icon {
   padding-left: 10px;
+  width: 50px;
 }
 
 .logo {
-  margin-top: 20px;
-  margin-left: 15px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.logo a {
+  display: flex;
+  justify-content: start;
+  align-items: center;
 }
 
 i {
