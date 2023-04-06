@@ -26,7 +26,7 @@ header {
 }
 
 .sidebar {
-  background-color: #1992d4;
+  background-color: coral;
   grid-area: side;
   z-index: 2;
 }
@@ -221,7 +221,7 @@ img.pfp-large {
   border-radius: 25px;
   font-size: 20px;
   font-weight: bold;
-  background-color: #1992d4;
+  background-color: coral;
   border: none;
   color: white;
   cursor: pointer;
@@ -244,7 +244,7 @@ img.pfp-large {
 .card {
   background-color: white;
   border-radius: 10px;
-  border-left: 10px solid #1992d4;
+  border-left: 10px solid coral;
   box-shadow: 0px 2px 5px 2px rgba(107, 114, 128, 20%);
   display: flex;
   flex-direction: column;
